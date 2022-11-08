@@ -1,0 +1,12 @@
+[submodule "ansible"]
+	path = ansible
+	url = https://github.com/aryan-gupta/ansible
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/aryan-gupta/dotfiles
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/aryan-gupta/scripts
+[submodule "life-doc"]
+	path = life-doc
+	url = https://github.com/aryan-gupta/life-doc
